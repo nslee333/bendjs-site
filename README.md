@@ -1,1 +1,3 @@
-Redesign and implementation by [Nathan Lee](https://github.com/nslee333).
+This repo is my revamp of the [Bendjs](bendjs.com) website. 
+
+It uses Next.js, Tailwind, Sanity.io CMS.
